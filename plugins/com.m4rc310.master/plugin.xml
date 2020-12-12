@@ -7,7 +7,7 @@
          point="org.eclipse.core.runtime.products">
       <product
             application="org.eclipse.e4.ui.workbench.swt.E4Application"
-            name="com.m4rc310.master">
+            name="MLS">
          <property
                name="lifeCycleURI"
                value="bundleclass://com.m4rc310.master/com.m4rc310.master.E4LifeCycle">
@@ -18,7 +18,7 @@
          </property>
          <property
                name="appName"
-               value="com.m4rc310.master">
+               value="MLS">
          </property>
       </product>
    </extension>
